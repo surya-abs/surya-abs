@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] - DevOps Engineer 🚀
+# 👋 Hi, I'm SURYA - DevOps Engineer 🚀
 
 🌱 **Certified Kubernetes Administrator (CKA)**  
 💻 **5+ years of experience** in DevOps and Cloud Engineering  
